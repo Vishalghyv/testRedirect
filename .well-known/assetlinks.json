@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.renaissance.app",
+      "sha256_cert_fingerprints":
+      ["55:8B:E1:1B:ED:CF:68:F4:C4:79:E8:F1:67:32:F0:05:4F:E5:93:80:00:E4:09:D1:76:5E:7F:42:45:C2:5C:E4"]
+    }
+  }]
+  
